@@ -3,7 +3,7 @@ ___
 
 ## Model description
 
-I have implemented **Monte Carlo Pott's** model in MATLAB.
+I have implemented **Monte Carlo** model in MATLAB.
 
 > **Algorithm:**
 > 
